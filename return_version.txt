@@ -1,0 +1,10 @@
+Voltando Para Versão Antiga
+
+- Liste todas as versoes do tag
+# git tag
+
+- Faça o checkout para a versão que deseja
+# git checkout VERSAO
+
+- Para que a mudanca ocorra sem falhas, não pode haver nenhuma mudança pendente no branch.
+Caso tenha alguma pendencia é necessário realizar o commit, ou usar o git stash.
